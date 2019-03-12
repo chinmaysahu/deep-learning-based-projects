@@ -12,7 +12,7 @@ This repo contains all my work for this specialization. All the code base, quiz 
 
 **VERBOSE CONTENT WARNING: YOU CAN JUMP TO THE NEXT SECTION IF YOU WANT**
 
-As a CS major student and a long-time self-taught learner, I have completed many CS related MOOCs on Coursera, Udacity, Udemy, and Edx. I do understand the hard time you spend on understanding new concepts and debugging your program. There are discussion forums on most MOOC platforms, however, even a question with detailed description may need some time to be answered. Here I released these solutions, which are **only for your reference purpose**. It may help you to save some time. And I hope you don't copy any part of the code (the programming assignments are fairly easy if you read the instructions carefully), see the quiz solutions before you start your own adventure. This course is almost the simplest deep learning course I have ever taken, but the simplicity is based on the fabulous course content and structure. It's a treasure given by deeplearning.ai team.
+As an deep learning enthusiast and a long-time self-taught learner, I have started MOOCs on Coursera with Machine Learning by Andrew Ng. I do understand the hard time you spend on understanding new concepts and debugging your program. There are discussion forums on most MOOC platforms, however, even a question with detailed description may need some time to be answered. Here I released these solutions, which are **only for your reference purpose**. It may help you to save some time. And I hope you don't copy any part of the code (the programming assignments are fairly easy if you read the instructions carefully), see the quiz solutions before you start your own adventure. This course is almost the simplest deep learning course I have ever taken, but the simplicity is based on the fabulous course content and structure. It's a treasure given by deeplearning.ai team.
 
 Currently, this repo has 3 major parts you may be interested in and I will give a list here.
 
@@ -71,20 +71,5 @@ There are concerns that some people may use the content here to quickly ace the 
   - [Week 1 Quiz - Bird recognition in the city of Peacetopia (case study)](https://github.com/chinmaysahu/deep-learning-coursera/blob/master/Structuring%20Machine%20Learning%20Projects/Week%201%20Quiz%20-%20Bird%20recognition%20in%20the%20city%20of%20Peacetopia%20(case%20study).md)
   - [Week 2 Quiz - Autonomous driving (case study)](https://github.com/chinmaysahu/deep-learning-coursera/blob/master/Structuring%20Machine%20Learning%20Projects/Week%202%20Quiz%20-%20Autonomous%20driving%20(case%20study).md)
 
-~~- Course 4: Convolutional Neural Networks~~
-~~- Course 5: Sequence Models~~
 
-~~## Important Slide Notes~~
-
-~~I screenshotted some important slide page and store them into GitHub issues. It seems not very helpful for everyone since I only keep those I think may be useful to me.~~
-
-~~- [Screenshots for Course 1: Neural Networks and Deep Learning](https://github.com/chinmaysahu/deep-learning-coursera/issues/1)~~
-
-~~- [Screenshots for Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://github.com/chinmaysahu/deep-learning-coursera/issues/2)~~
-
-~~- [Screenshots for Course 3: Structuring Machine Learning Projects](https://github.com/chinmaysahu/deep-learning-coursera/issues/3)~~
-
-~~- [Screenshots for Course 4: Convolutional Neural Networks](https://github.com/chinmaysahu/deep-learning-coursera/issues/14)~~
-
-~~- Screenshots for Course 5: Sequence Models~~
 
